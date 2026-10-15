@@ -1,8 +1,8 @@
 # Pertemuan 07 Fungsi Python
 
 Nama: Ahadin Ilman
-NIM: [Isi NIM Anda]
-Kelas: [Isi Kelas Anda]
+NIM: 2225250220
+Kelas: 3A
 
 ## Tujuan
 Menggunakan fungsi, parameter, return value, dan scope untuk membuat program modular.
